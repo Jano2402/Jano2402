@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 🔭 I'm currently working on my projects and pursuing a degree in Computer Engineering<br>  
 🪴 I'm currently learning back-end with Node.js, Express.js, Prisma, Mongoose, and Docker<br>  
 💎 Interest in artificial intelligence, machine learning, automation<br>  
@@ -7,7 +7,7 @@
 
 
 
-# 📚 Languages & tools I have placed my hands on:
+### 📚 Languages & tools I have placed my hands on:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jano2402&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
