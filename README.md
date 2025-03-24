@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>こんにちは 🙏 I'm Alejandro Martínez</h2>
+  <h2>はじめまして 🙏 I'm Alejandro Martínez</h2>
 </div>
 
 # 💫 About Me:
