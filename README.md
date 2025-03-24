@@ -1,3 +1,6 @@
+<div align="center">
+  <h1>こんにちは 🙏 I'm Alejandro Martínez</h1>
+</div>
 # 💫 About Me:
 🔭 I'm currently working on my projects and pursuing a degree in Computer Engineering<br>  
 🪴 I'm currently learning back-end with Node.js, Express.js, Prisma, Mongoose, and Docker<br>  
