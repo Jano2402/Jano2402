@@ -1,4 +1,4 @@
-<img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" width="250">
+<img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" height="500">
 <div align="center">
   <h2>はじめまして 🙏 I'm Alejandro Martínez</h2>
 </div>
