@@ -4,9 +4,7 @@
 
 <div align="center">
   <h2>はじめまして 🙏 I'm Alejandro Martínez</h2>
-  <br/>
 </div>
-
 
 # 💫 About Me:
 🔭 I'm currently working on my projects and pursuing a degree in Computer Engineering<br>
