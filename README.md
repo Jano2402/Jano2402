@@ -5,7 +5,7 @@
 ⛏️ Mining bugs and crafting solutions (Minecraft enjoyer)<br>  
 <div align="center">
 
-
+---
 
 ### 📚 Languages & tools I have placed my hands on:
 <div align="center">
