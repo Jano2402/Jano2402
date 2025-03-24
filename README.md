@@ -3,10 +3,10 @@
 🪴 I'm currently learning back-end with Node.js, Express.js, Prisma, Mongoose, and Docker<br>  
 💎 Interest in artificial intelligence, machine learning, automation<br>  
 ⛏️ Mining bugs and crafting solutions (Minecraft enjoyer)<br>  
-
+<div align="center">
 ---
 
-<div align="center">
+
 # 📚 Languages & tools I have placed my hands on:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
