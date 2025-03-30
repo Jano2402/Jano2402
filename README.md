@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" height="500">
+  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg">
 </div>
 
 <div align="center">
